@@ -1,0 +1,19 @@
+body{
+    background-image: url(pictures/download.jpg);
+    background-size: cover;
+}
+h1{
+color: white;
+font-style: italic;
+
+}
+h2{
+    color: white;
+    font-style: italic;
+}
+
+
+
+p{
+    color:rgb(108, 253, 80)
+}
